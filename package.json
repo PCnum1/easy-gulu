@@ -1,0 +1,23 @@
+{
+  "name": "easy-gulu",
+  "version": "0.0.1",
+  "description": "简易UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCnum1/easy-gulu.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "llz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PCnum1/easy-gulu/issues"
+  },
+  "homepage": "https://github.com/PCnum1/easy-gulu#readme"
+}
