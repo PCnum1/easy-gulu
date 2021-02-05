@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/PCnum1/easy-gulu/issues"
   },
-  "homepage": "https://github.com/PCnum1/easy-gulu#readme"
+  "homepage": "https://github.com/PCnum1/easy-gulu#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
